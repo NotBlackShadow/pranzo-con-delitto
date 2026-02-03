@@ -19,23 +19,23 @@ Il sito accompagna l’esperienza dal primo sospetto fino alla rivelazione final
 
 ### Pagine principali
 
-* **Homepage**
-  Introduzione al progetto, pulsanti di navigazione, descrizione del sito e sezione FAQ (domande frequenti).
+**Homepage**
+Introduzione al progetto, pulsanti di navigazione, descrizione del sito e sezione FAQ (domande frequenti).
 
-* **Menu**
-  Menu della serata e lista dei cocktail disponibili.
+**Menu**
+Menu della serata e lista dei cocktail disponibili.
 
-* **Sospettati**
-  Raccolta dei personaggi coinvolti nella storia.
+**Sospettati**
+Raccolta dei personaggi coinvolti nella storia.
 
-* **Articoli**
-  Approfondimenti e ricerche sui gialli, personaggi/investigatori e altri contenuti correlati.
+**Articoli**
+Approfondimenti e ricerche sui gialli, personaggi/investigatori e altri contenuti correlati.
 
-* **Escape Room**
-  Sezione dedicata al gioco, con indizi e materiali interattivi.
+**Escape Room**
+Sezione dedicata al gioco, con indizi e materiali interattivi.
 
-* **Crediti**
-  Elenco delle classi e delle persone coinvolte nel progetto.
+**Crediti**
+Elenco delle classi e delle persone coinvolte nel progetto.
 
 ---
 
@@ -43,24 +43,24 @@ Il sito accompagna l’esperienza dal primo sospetto fino alla rivelazione final
 
 Dopo la presentazione del progetto durante la serata, verranno aggiunte le seguenti sezioni:
 
-* **Galleria**
-  Immagini della serata.
+**Galleria**
+Immagini della serata.
 
-* **Menu (con foto)**
-  Versione del menu arricchita con fotografie.
+**Menu (con foto)**
+Versione del menu arricchita con fotografie.
 
-* **Pagina Tavoli**
-  Immagine interattiva con punti cliccabili sui tavoli, contenenti le descrizioni degli investigatori.
+**Pagina Tavoli**
+Immagine interattiva con punti cliccabili sui tavoli, contenenti le descrizioni degli investigatori.
 
 
 ---
 
-## 🚀 Tecnologie
- 
-- Wordpress
-- HTML / CSS / JavaScript & librerie
-- Backend (php) 
-- Db 
+## 🚀 Tecnologie utilizzate
+
+**WordPress**
+**HTML / CSS / JavaScript** (e librerie)
+**PHP** (backend)
+**Database** per la gestione dei contenuti
 
 ...
 
