@@ -24,10 +24,10 @@ Il sito accompagna l’esperienza dal primo sospetto fino alla rivelazione final
   Introduzione al progetto, pulsanti di navigazione, descrizione del sito e sezione FAQ (domande frequenti).
 
 - **Votazioni**  
-  Pagina relativa alla votazione dei loghi dei grafici, con le immagini, possibilità di votare, account pre-stabiliti e vincitore finale.
+  Pagina relativa alla votazione dei loghi dei grafici, con le immagini, possibilità di votare, account pre-stabiliti e vincitore finale. (prob form con gravity forms)
 
 - **Menu**  
-  Menu della serata e lista dei cocktail disponibili.
+  Menu del pranzo e lista dei cocktail disponibili.
 
 - **Sospettati**  
   Raccolta dei personaggi coinvolti nella storia.
@@ -49,7 +49,7 @@ Il sito accompagna l’esperienza dal primo sospetto fino alla rivelazione final
 Dopo la presentazione del progetto durante la serata, verranno aggiunte le seguenti sezioni:
 
 - **Galleria**  
-  Immagini della serata.
+  Immagini del pranzo.
 
 - **Menu (con foto)**  
   Versione del menu arricchita con fotografie.
