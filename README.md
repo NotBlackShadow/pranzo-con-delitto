@@ -11,6 +11,7 @@
 I partecipanti assumono il ruolo di investigatori e, attraverso una **web escape room**, dovranno raccogliere indizi, risolvere enigmi e collaborare per scoprire la verità nascosta dietro al delitto.
 
 Il sito accompagna l’esperienza dal primo sospetto fino alla rivelazione finale, combinando narrazione, interazione e gioco di squadra.  
+
 ...
 
 ---
@@ -22,6 +23,9 @@ Il sito accompagna l’esperienza dal primo sospetto fino alla rivelazione final
 - **Homepage**  
   Introduzione al progetto, pulsanti di navigazione, descrizione del sito e sezione FAQ (domande frequenti).
 
+- **Votazioni**  
+  Pagina relativa alla votazione dei loghi dei grafici, con le immagini, possibilità di votare, account pre-stabiliti e vincitore finale.
+
 - **Menu**  
   Menu della serata e lista dei cocktail disponibili.
 
@@ -32,6 +36,7 @@ Il sito accompagna l’esperienza dal primo sospetto fino alla rivelazione final
   Approfondimenti e ricerche sui gialli, personaggi/investigatori e altri contenuti correlati.
 
 - **Escape Room**  
+  (da iniziare pre-evento e da pubblicare in post)  
   Sezione dedicata al gioco, con indizi e materiali interattivi.
 
 - **Crediti**  
@@ -39,7 +44,7 @@ Il sito accompagna l’esperienza dal primo sospetto fino alla rivelazione final
 
 ---
 
-## Contenuti aggiuntivi (post-evento)
+## 📂 Contenuti aggiuntivi (post-evento)
 
 Dopo la presentazione del progetto durante la serata, verranno aggiunte le seguenti sezioni:
 
